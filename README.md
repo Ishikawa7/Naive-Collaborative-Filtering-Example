@@ -1,5 +1,5 @@
 # Simple Collaborative Filtering
-A basic example of collaborative filtering in Python using the MovieLens 100k dataset, the dataset contains ratings data for 9,000 movies by 600 users.
+A basic example of collaborative filtering in Python using the MovieLens 100k dataset, the dataset contains ratings data for 9,724 movies by 610 users.
 
 ## Requirements
 pandas
